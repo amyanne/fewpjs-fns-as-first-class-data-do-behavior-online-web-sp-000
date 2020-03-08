@@ -19,7 +19,7 @@ function greet(timeString){
   } else if (hourInt >= 17) {
     return "Good Evening"
   }
-  
+
 }
 /* Write your implementation of displayMessage() */
 function displayMessage(timeOfDay) {
